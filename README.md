@@ -1,7 +1,7 @@
 ### What's up! 👋
 
 Welcome to my profile.
-I'm **Sujit Mali** working currently as a **Frontend Developer Intern @TabberOnline**.
+I'm **Sujit Mali**.
 
 ### Tech Stack
 
