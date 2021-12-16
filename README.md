@@ -1,7 +1,7 @@
 ### What's up! 👋
 
 Welcome to my profile.
-I'm **Sujit Mali**.
+I'm **Sujit Mali** I'm a Frontend Developer.
 
 ### Tech Stack
 
