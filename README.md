@@ -15,7 +15,7 @@ I'm **Sujit Mali**. I'm a Frontend Developer.
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/react-original.svg" alt="React"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/redux-original.svg" alt="Redux"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/tailwindcss.svg" alt="Tailwind CSS"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/nextjs.svg" alt="NextJs"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Sujit0807/Sujit0807/master/assets/nextjs.JPG" alt="NextJs"></code>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
