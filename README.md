@@ -4,7 +4,6 @@ Welcome to my profile.
 I'm **Sujit Mali**. I'm a Frontend Developer.
 
 - 📫 How to reach me **malisujit12@gmail.com**
-- 🔭 I’m currently working on [Pomotimer](https://pomotimer.com/)
 
 ### Tech Stack
 
