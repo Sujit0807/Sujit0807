@@ -24,9 +24,6 @@ I'm **Sujit Mali**. I'm a Frontend Developer.
 <a href="https://instagram.com/sujit_0807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit_0807" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit0807&show_icons=true&locale=en" alt="sujit0807" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit0807&" alt="sujit0807" /></p>
 
 Happy Coding !
